@@ -11,8 +11,9 @@
 - 💬 Ask me about projects...
 - 📫 How to reach me: 
 
-🔗 [Linkedin](https://www.linkedin.com/in/edisonneza/) <br/>
-🔗 [Twitter](https://twitter.com/edisonneza) <br/>
+<!--🔗 [Linkedin](https://www.linkedin.com/in/edisonneza/) <br/>
+🔗 [Twitter](https://twitter.com/edisonneza) <br/> -->
+🌎[Website](https://edisonneza.github.io) <br/>
 ✉ [Email](mailto:edison.neza.dev@gmail.com)
 
 <!-- - 😄 Pronouns: ... -->
