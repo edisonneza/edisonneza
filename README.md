@@ -14,7 +14,7 @@
 <!--🔗 [Linkedin](https://www.linkedin.com/in/edisonneza/) <br/>
 🔗 [Twitter](https://twitter.com/edisonneza) <br/> -->
 🌎 [Website](https://edisonneza.github.io) <br/>
-✉ [Email](mailto:edison.neza.dev@gmail.com)
+✉ [Email](mailto:edisonneza.dev@gmail.com)
 
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
