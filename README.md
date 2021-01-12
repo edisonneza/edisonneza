@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with ...
 -->
 
-- 🔭 I’m currently working on Sharepoint Framework.
+- 🔭 Currently working with ReactJs. <del>I’m currently working on Sharepoint Framework.</del>
 - 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about projects...
