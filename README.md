@@ -9,13 +9,13 @@
 - 🔭 Currently working with ReactJs. <del>Currently working on Sharepoint Framework.</del>
 - 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about projects...
-- 📫 How to reach me: 
+- 💬 Ask me about projects 😊...
+<!-- - 📫 How to reach me: -->
 
 <!--🔗 [Linkedin](https://www.linkedin.com/in/edisonneza/) <br/>
-🔗 [Twitter](https://twitter.com/edisonneza) <br/> -->
+🔗 [Twitter](https://twitter.com/edisonneza) <br/> 
 🌎 [Website](https://edisonneza.github.io) <br/>
-✉ [Email](mailto:edisonneza.dev@gmail.com)
+✉ [Email](mailto:edisonneza.dev@gmail.com) -->
 
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
