@@ -15,16 +15,3 @@
 - 🌎 More about me: **[edisonneza.github.io](https://edisonneza.github.io/)**
 
 ---
-
-### 🛠 Tech Stack
-
-| Area | Tools |
-| --- | --- |
-| **Languages** | C#, JavaScript, TypeScript, SQL, PHP |
-| **Backend** | .NET Core, ASP.NET MVC, Web API, Entity Framework, Dapper, gRPC, Node.js |
-| **Frontend** | React, Redux, TypeScript, jQuery |
-| **Architecture** | Clean Architecture, DDD, Microservices, CQRS, Event Sourcing, Multi-Tenancy |
-| **Data & Messaging** | SQL Server, PostgreSQL, MongoDB, RavenDB, Redis, Kafka, RabbitMQ, Azure Queues |
-| **Cloud & DevOps** | Azure Functions, Blob Storage, Docker, Kubernetes, Argo CD, Keycloak, Azure DevOps, CI/CD |
-| **Testing** | xUnit, Moq, Playwright E2E, Swagger/OpenAPI, Postman |
-
